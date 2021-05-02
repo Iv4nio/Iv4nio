@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hello you fucker, I'm Ivanio
+</h1>
+
+<h3 align="center">I am an aspiring YouTuber that likes to code on the side</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> </p>
 
