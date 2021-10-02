@@ -13,7 +13,7 @@
 
 - 🎥 I like to create YouTube videos, link: [https://www.youtube.com/channel/UC0ghNi5Hzng2kZdHwTuMA0w](https://www.youtube.com/channel/UC0ghNi5Hzng2kZdHwTuMA0w)
 
-- 📫 How to reach me? **Discord - (Ivanio#7978) or Twitter - (@IvanioYT)**
+- 📫 How to reach me? **Discord - (Ivanio#7978) or Twitter - (@Iv4nio)**
 
 - ⚡ Fun fact: **I'm Asian**
 
