@@ -1,5 +1,5 @@
 <h1 align="center">Hello you sexy fucker 👋, I'm Ivanio</h1>
-<h3 align="center">This is my GitHub page - I love coding in my free time</h3>
+<h3 align="center">This is my GitHub page - I code in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> </p>
 
