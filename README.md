@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> </p>
 
-- 🔭 I’m currently working on [IvanioBot](https://github.com/Iv4nio/IvanioBot)
+I’m currently working on [IvanioBot](https://github.com/Iv4nio/IvanioBot)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Just some social media trash here:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" height="30" width="40" /></a>
 <a href="https://discord.gg/BatwkX5NbG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BatwkX5NbG" height="30" width="40" /></a>
