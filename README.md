@@ -16,6 +16,8 @@
 <h3 align="left">Languages</h3>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 
+<h3 align="left">GitHub Stats</h3>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iv4nio&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nio&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=radical)
