@@ -18,4 +18,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iv4nio&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nio&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=radical)
