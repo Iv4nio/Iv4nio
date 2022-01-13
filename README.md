@@ -3,22 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> </p>
 
+## Information
+
 - I’m currently working on [IvanioBot](https://github.com/Iv4nio/IvanioBot)
 - All of my codes are open source
 - You can chat to me on discord; my username including discriminator is **Ivanio#7978**
 
-<h3 align="left">My stuff here:</h3>
+## My stuff here
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BatwkX5NbG)
+
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" height="30" width="40" /></a>
-<a href="https://discord.gg/BatwkX5NbG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BatwkX5NbG" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages</h3>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+## Languages & Frameworks
 
-<h3 align="left">GitHub Stats</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## GitHub Stats
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Iv4nio&show_icons=true&count_private=true&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nio&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Iv4nio&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
