@@ -12,6 +12,7 @@
 ## My stuff here
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BatwkX5NbG)
+[![YouTube](https://img.shields.io/badge/YouTube-990000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Ivanio)
 
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" height="30" width="40" /></a>
