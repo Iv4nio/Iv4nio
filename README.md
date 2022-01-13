@@ -25,5 +25,5 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Iv4nio&show_icons=true&count_private=true&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nio&layout=compact&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Iv4nio&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Iv4nio&theme=tokyonight"/>
 </p>
