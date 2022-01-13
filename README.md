@@ -1,7 +1,10 @@
 <h1 align="center">Hello you sexy fucker 🥵👋, I'm Ivanio</h1>
 <h3 align="center">This is my GitHub page - I code in my free time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=iv4nio&label=Profile%20views&color=0e75b6&style=flat" alt="iv4nio" /> 
+    
+</p>
 
 ## Information
 
@@ -13,9 +16,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BatwkX5NbG)
 [![YouTube](https://img.shields.io/badge/YouTube-990000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Ivanio)
-
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ghni5hzng2kzdhwtuma0w" height="30" width="40" /></a>
 
 ## Languages & Frameworks
 
