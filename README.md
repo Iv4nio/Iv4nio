@@ -1,4 +1,4 @@
-<h1 align="center">Hello you sexy fucker 🥵👋, I'm Ivanio</h1>
+<h1 align="center">Hello, I'm Ivanio</h1>
 <h3 align="center">This is my GitHub page - I code in my free time</h3>
 
 <p align="center"> 
