@@ -12,11 +12,6 @@
 - All of my codes are open source
 - You can chat to me on discord; my username including discriminator is **Ivanio#7978**
 
-## My stuff here
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BatwkX5NbG)
-[![YouTube](https://img.shields.io/badge/YouTube-990000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Ivanio)
-
 ## Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
