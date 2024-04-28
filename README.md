@@ -10,7 +10,6 @@
 
 - I’m currently working on [IvanioBot](https://github.com/Iv4nio/IvanioBot)
 - All of my codes are open source
-- You can chat to me on discord; my username including discriminator is **Ivanio#7978**
 
 ## Languages & Frameworks
 
